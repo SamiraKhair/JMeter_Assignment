@@ -32,9 +32,6 @@ This repository contains the results of Load, Endurance, and Spike testing perfo
   - Expected higher error % due to sudden load spike  
   - Response times spiked as expected  
 
-## Notes
-- The **HTML report** could not be generated from the JTL file due to a column mismatch issue.  
-- All `.jtl` files are included as evidence of the test runs.  
 
 ## Files Included
 
