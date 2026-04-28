@@ -39,4 +39,6 @@ This repository contains the results of Load, Endurance, and Spike testing perfo
 - [load_results.jtl](./load_results.jtl) — Load test results  
 - [endurance_results.jtl](./endurance_results.jtl) — Endurance test results  
 - [spike_results.jtl](./spike_results.jtl) — Spike test results
+- [load_results.jtl](./load_results.jtl) — Load test results
+- [spike_results.jtl](./spike_results.jtl) — Spike test results
 
