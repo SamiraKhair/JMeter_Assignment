@@ -6,7 +6,7 @@ This repository contains the results of Load, Endurance, and Spike testing perfo
 - **Purpose:** Determine the maximum sustainable load the system can handle with error rate below 1%.  
 - **Configuration:**  
   - Threads (users): 900 (baseline)  
-  - Ramp-up: 3 seconds  
+  - Ramp-up: 3 seconds
   - Duration: until steady-state achieved  
 - **Results:**  
   - Maximum sustainable load: 900 threads  
@@ -37,8 +37,6 @@ This repository contains the results of Load, Endurance, and Spike testing perfo
 
 - [TestPlan.jmx](./TestPlan.jmx) — JMeter test plan  
 - [load_results.jtl](./load_results.jtl) — Load test results  
-- [endurance_results.jtl](./endurance_results.jtl) — Endurance test results  
-- [spike_results.jtl](./spike_results.jtl) — Spike test results
-- [load_results.jtl](./load_results.jtl) — Load test results
-- [spike_results.jtl](./spike_results.jtl) — Spike test results
+- [load_results.html](./load.html) — Load test results
+- [endurance_results.html](./endurance.html) — Endurance test results
 
